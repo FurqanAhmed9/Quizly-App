@@ -8,7 +8,9 @@ The project consists of two main components: the frontend and the backend.
 The frontend is developed using React.js, a popular JavaScript library for building user interfaces. The frontend provides a user-friendly interface for users to interact with the Quiz App. The following are the main components of the frontend:
 
 `Login Page:` This page prompts the user to enter their name and email. It provides an input field for each and a login button to proceed to the quiz.
+
 `Quiz Page:` This page displays three multiple-choice questions for the user to answer. The user can select one option for each question.
+
 `Score Page:` After submitting the answers, the score page is displayed, showing the user's final score in the quiz.
 
  # `Backend:`
