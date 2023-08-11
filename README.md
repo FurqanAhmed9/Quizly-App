@@ -1,4 +1,4 @@
-# `quizly-app`
+# `Quizly App`
 This is the README file for the Quiz App, a semester project of database subject developed by using React.js, Node.js, and MySQL database. The Quiz App allows users to participate in a quiz by answering multiple-choice questions and stores the user's information and score in a MySQL database.
 
 # `Project Structure`
@@ -6,6 +6,7 @@ The project consists of two main components: the frontend and the backend.
 
 # `Frontend:`
 The frontend is developed using React.js, a popular JavaScript library for building user interfaces. The frontend provides a user-friendly interface for users to interact with the Quiz App. The following are the main components of the frontend:
+
 `Login Page:` This page prompts the user to enter their name and email. It provides an input field for each and a login button to proceed to the quiz.
 `Quiz Page:` This page displays three multiple-choice questions for the user to answer. The user can select one option for each question.
 `Score Page:` After submitting the answers, the score page is displayed, showing the user's final score in the quiz.
@@ -30,7 +31,7 @@ To run the Quiz App on your local machine, ensure that you have the following so
 # `Setup Instructions:`
 To set up the Quiz App project, follow these steps:
 
-# `Navigate to the project directory in the terminal run following commands:`
+`Navigate to the project directory in the terminal run following commands:`
 `cd Quiz-Frontend
 npm install
 npm start`
