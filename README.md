@@ -17,7 +17,9 @@ The frontend is developed using React.js, a popular JavaScript library for build
 The backend of the Quiz App is developed using Node.js, a JavaScript runtime environment, and utilizes the MySQL database for storing user data. The backend handles the following tasks:
 
 `Database Connection:` The backend establishes a connection with the MySQL database.
+
 `User Registration:` When a user logs in with their name and email, the backend stores the user's information in the database.
+
 `Quiz Submission:` After the user completes the quiz, the backend calculates the user's score and saves it in the database along with their name and email.
 
 # `Prerequisites:`
@@ -34,10 +36,12 @@ To run the Quiz App on your local machine, ensure that you have the following so
 # `Setup Instructions:`
 To set up the Quiz App project, follow these steps:
 
-`Navigate to the project directory in the terminal run following commands:`
-`cd Quiz-Frontend
-npm install
-npm start`
+Navigate to the project directory in the terminal run following commands:
+`cd Quiz-Frontend`
+
+`npm install`
+
+`npm start`
 
 # `Configure the backend:`
 Create a MySQL database for the project.
